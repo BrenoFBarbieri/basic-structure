@@ -2,7 +2,9 @@
 
 _Aqui você encontra diversas estruturas básicas ***(setup)*** para clonar e codar!_
 
-### next_basic-structure
+## Informações técnicas
+
+### next_basic-structure:
 
 ###### Tecnologias utilizada
 
